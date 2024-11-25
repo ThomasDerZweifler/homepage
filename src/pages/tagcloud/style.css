@@ -1,0 +1,29 @@
+/* Styles go here */
+
+h1 {
+  margin: 15px;
+}
+
+.tagcloud {
+  background: SkyBlue;
+  border-radius: 20px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  min-width: 30%;
+}
+
+.input {
+  border: 0px;
+  background-color: SkyBlue;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+}
